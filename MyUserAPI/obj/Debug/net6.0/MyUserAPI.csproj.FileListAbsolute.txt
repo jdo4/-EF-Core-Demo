@@ -1,0 +1,119 @@
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.exe
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.deps.json
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.runtimeconfig.json
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.pdb
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.AssemblyReference.cache
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.AssemblyInfoInputs.cache
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.AssemblyInfo.cs
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.CoreCompileInputs.cache
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/scopedcss/bundle/MyUserAPI.styles.css
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.CopyComplete
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/refint/MyUserAPI.dll
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.pdb
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.genruntimeconfig.cache
+C:/Users/manis/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/ref/MyUserAPI.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.exe
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.deps.json
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.runtimeconfig.json
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.pdb
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.AssemblyReference.cache
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.AssemblyInfoInputs.cache
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.AssemblyInfo.cs
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.CoreCompileInputs.cache
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/scopedcss/bundle/MyUserAPI.styles.css
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.CopyComplete
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/refint/MyUserAPI.dll
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.pdb
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.genruntimeconfig.cache
+C:/Users/mrattan/OneDrive - Conestoga College/Classes/Course 8185/Repos/MyUserAPI/MyUserAPI/obj/Debug/net6.0/ref/MyUserAPI.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/appsettings.Development.json
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/appsettings.json
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.deps.json
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.runtimeconfig.json
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/MyUserAPI.pdb
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.AssemblyReference.cache
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.AssemblyInfoInputs.cache
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.AssemblyInfo.cs
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.CoreCompileInputs.cache
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets/msbuild.MyUserAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets/msbuild.build.MyUserAPI.props
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.MyUserAPI.props
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.MyUserAPI.props
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets.build.json
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/staticwebassets.development.json
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/scopedcss/bundle/MyUserAPI.styles.css
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.csproj.CopyComplete
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/refint/MyUserAPI.dll
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.pdb
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/MyUserAPI.genruntimeconfig.cache
+/Users/arsitmaniya/Downloads/MyUserAPI/MyUserAPI/obj/Debug/net6.0/ref/MyUserAPI.dll
